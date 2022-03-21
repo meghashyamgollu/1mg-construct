@@ -25,6 +25,7 @@ Download or clone the Repo and Run Locally
 ### _<u>Pages Build</u>_
 
 - Home Page
+![image](https://user-images.githubusercontent.com/95949460/159298130-7ecde8b2-3c0f-4bdc-b45a-306c5f7946cf.png)
 - Sign In, 
 - Product page, 
 - Cart Page 
